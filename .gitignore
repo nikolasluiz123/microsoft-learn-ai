@@ -1,0 +1,30 @@
+# Ambientes Virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm / JetBrains IDEs
+.idea/
+*.iml
+
+# Artefatos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Variáveis de Ambiente e Segredos
+.env
+.env.local
+.secrets/
+*.pem
+
+# Ferramentas de Teste e Cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs e Dados Locais
+*.log
+chroma_db/
