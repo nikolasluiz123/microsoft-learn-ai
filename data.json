@@ -1,0 +1,56 @@
+[
+  {
+    "id": "intro-ai-1-visao-geral",
+    "module_id": "mslearn-intro-ai",
+    "title": "Introdução à IA",
+    "text": "Este módulo foi projetado para fornecer uma visão geral de alto nível de algumas funcionalidades principais de IA (inteligência artificial) e fornecer uma intuição de como eles funcionam. O foco está em entender os tipos de coisas que a IA pode fazer e os princípios básicos nos quais ela se baseia, sem entrar em detalhes matemáticos de machine learning."
+  },
+  {
+    "id": "intro-ai-2-agentes-generativos",
+    "module_id": "mslearn-intro-ai",
+    "title": "IA e agentes generativos",
+    "text": "A IA generativa é um branch de IA que permite que aplicativos de software gerem novo conteúdo, como caixas de diálogo de linguagem natural, imagens, vídeo e código. A capacidade de gerar conteúdo é baseada em um modelo de linguagem treinado com grandes volumes de dados. Os usuários interagem por meio de prompts (instruções de linguagem natural). Os modelos encapsulam relações semânticas entre elementos de linguagem, permitindo gerar sequências significativas de texto."
+  },
+  {
+    "id": "intro-ai-2-llm-vs-slm",
+    "module_id": "mslearn-intro-ai",
+    "title": "Diferença entre LLMs e SLMs",
+    "text": "Há grandes modelos de linguagem (LLMs) e SLMs (modelos de linguagem pequenos). A diferença é baseada no volume de dados e no número de variáveis no modelo. As LLMs são poderosas e generalizam bem, mas podem ser mais caras para treinar e usar. Os SLMs funcionam bem em cenários focados em tópicos específicos ou que exigem modelos pequenos implantados para aplicativos locais e agentes em dispositivos."
+  },
+  {
+    "id": "intro-ai-2-cenarios-generativa",
+    "module_id": "mslearn-intro-ai",
+    "title": "Cenários de uso da IA Generativa",
+    "text": "Os usos comuns da IA generativa incluem: implementação de agentes de IA que auxiliam usuários fornecendo informações ou automatizando tarefas; criação de novos documentos ou conteúdo como ponto de partida; tradução automatizada de texto entre idiomas; e resumo ou explicação de documentos complexos."
+  },
+  {
+    "id": "intro-ai-3-nlp-conceito",
+    "module_id": "mslearn-intro-ai",
+    "title": "Texto e processamento de linguagem natural (NLP)",
+    "text": "O NLP (processamento de linguagem natural) aborda modelos de IA e técnicas para dar sentido à linguagem e é a base sobre a qual os LLMs são construídos. Ferramentas NLP especializadas são usadas para produzir resultados previsíveis ou aplicar regras personalizadas, diferentemente da IA generativa padrão."
+  },
+  {
+    "id": "intro-ai-3-nlp-tecnicas",
+    "module_id": "mslearn-intro-ai",
+    "title": "Técnicas de Análise de Texto (NLP)",
+    "text": "As técnicas de NLP incluem: Detecção de idioma (determinar o idioma de um documento). Classificação de texto (atribuir categoria, como análise de sentimento positivo/negativo). Extração de termos-chave e detecção de entidade (identificar palavras-chave, pessoas, locais, organizações e redigir Informações de Identificação Pessoal - PII). Resumo (reduzir o volume de texto encapsulando pontos principais)."
+  },
+  {
+    "id": "intro-ai-3-nlp-cenarios",
+    "module_id": "mslearn-intro-ai",
+    "title": "Cenários de uso de Análise de Texto",
+    "text": "Os usos comuns de tecnologias NLP incluem: analisar documentos ou transcrições para determinar assuntos principais e entidades; avaliar sentimento em postagens e revisões; implementar chatbots baseados em regras para perguntas frequentes sem a complexidade da IA gerativa; e redigir PII (dados privados) para cumprir políticas de privacidade."
+  },
+  {
+    "id": "intro-ai-4-fala-conceito",
+    "module_id": "mslearn-intro-ai",
+    "title": "Reconhecimento e Síntese de Fala",
+    "text": "Os recursos de fala permitem interações por idioma falado. O Reconhecimento de fala é a capacidade da IA de 'ouvir' e interpretar (conversão de fala em texto). A Síntese de fala é a capacidade de vocalizar palavras (conversão de texto em fala). A tecnologia evolui rapidamente para ignorar ruídos e gerar vozes humanas expressivas."
+  },
+  {
+    "id": "intro-ai-4-fala-cenarios",
+    "module_id": "mslearn-intro-ai",
+    "title": "Cenários de uso de tecnologias de Fala",
+    "text": "Os usos comuns de IA para fala incluem: Agentes de IA que entendem entrada falada e respondem com resultados falados; Transcrição automatizada de chamadas ou reuniões; Criação de descrições em áudio automatizadas para vídeo ou texto; e Tradução de fala automatizada entre idiomas."
+  }
+]
